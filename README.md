@@ -1,1 +1,1 @@
-# Simulated-Annealing-Graph-Colouring-Problem-
+# Simulated Annealing-Graph Colouring-Problem
