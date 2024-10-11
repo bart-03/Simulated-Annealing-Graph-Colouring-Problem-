@@ -20,6 +20,8 @@ When writing your program, note that a valid matrix entails the followings:
 2) The matrix is symmetrical (Mij = Mji)
 3) The leading diagonal (i, i) contains zero values
 4) The matrix is binary i.e. contain zeros and ones only
+
+   
 Solving the problem can be quite computationally expensive, and thus, a heuristic search algorithm can be used
 to traverse the space of possible solutions using a fitness function to locate the best solution. The purpose of
 this assignment is to write Java code that solves the functional requirements listed in Table 1, i.e. develop some
